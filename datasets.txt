@@ -1,0 +1,6 @@
+Letras
+https://www.kaggle.com/grassknoted/asl-alphabet
+https://www.kaggle.com/danrasband/asl-alphabet-test
+https://www.kaggle.com/jordiviader/american-sign-language-alphabet-static
+Numeros
+https://www.kaggle.com/ardamavi/sign-language-digits-dataset
