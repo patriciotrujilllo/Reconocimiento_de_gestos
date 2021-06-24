@@ -1,0 +1,8 @@
+El siguiente datasets es la combinacion de varios, para enfocarlo a la Lengua de Señas Chilena
+1-"ASL Alphabet", 2018 , https://www.kaggle.com/grassknoted/asl-alphabet
+2-"ASL Alphabet Test", 2018 , https://www.kaggle.com/danrasband/asl-alphabet-test
+3-"American Sign Language Alphabet (Static)", 2020 , https://www.kaggle.com/jordiviader/american-sign-language-alphabet-static
+4-"Lengua de señas mexicana”, Erik Ibarra, https://medium.com/inteligencia-artificial-itesm-cq/generación-de-dataset-para-problema-de-visión-computarizada-a90c77a0dc9a
+5-"Lengua de Señas Colombiana" colgado por Kaggle Kerneler en Kaggle, https://www.kaggle.com/kerneler/starter-dataset-lsc-modelo-9b4f89c2-8?select=a
+
+https://drive.google.com/file/d/1TERHYncPbwuofWj5_uBH74iMdXPQBrjW/view?usp=sharing
